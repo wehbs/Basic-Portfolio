@@ -1,0 +1,83 @@
+body {
+  background-color: ;
+  margin: auto;
+}
+
+nav {
+  background-color: blue;
+  padding: 20px;
+}
+
+header {
+  background-color: #ffffff;
+  padding: 40px;
+}
+
+h3 {
+  display: inline;
+}
+
+section {
+  float: left;
+  width: 650px;
+  margin: 20px;
+}
+
+aside {
+  float: right;
+}
+
+img {}
+
+footer {
+  background-color: #666666;
+  border-top: 10px;
+  border-color: #4aaaa5;
+  padding: 20px;
+  text-align: center;
+  clear: both;
+}
+
+h1 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.h1 {
+  background-color: #4aaaa5;
+  color: white;
+  width: 200px;
+  text-align: center;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.head2 {
+  background-color: grey;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.div1 {
+  text-align: right;
+}
+
+.div2 {
+  width: 960px;
+  margin: auto;
+  background-image: url("cork-wallet.png");
+}
+
+.floatl {
+  float: left;
+  margin-left: 25px;
+}
+
+.floatr {
+  float: right;
+  margin-right: 25px;
+}
+
+.aboutfloat {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.p {}
